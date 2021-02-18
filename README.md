@@ -22,4 +22,4 @@ exports.PREFIX = "," //your bots prefix
 ### Credits ###
 The code here is based on FirezTheGreat's bot [1Shot](https://github.com/FirezTheGreat/1SHOT), however some changes have been made to the code. 
 
-*If you get any errors and are unable to solve it. You can DM me on Discord: FC#5570.*
+*If you get any errors and are unable to solve it. You can DM me on Discord: FC#5104.*
